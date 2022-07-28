@@ -1,5 +1,4 @@
-
-
+![Image description](./Screenshot%202022-07-28%20114328.png)
 ![Image description](https://i1.faceprep.in/ProGrad/prograd-logo.png)
 
 # PROGRAD LABS | NODE | GETTING STARTED
@@ -188,8 +187,8 @@ The `avg()` method should return the average value of the array.
 Just as before, check the corresponding test to see if there's anything else that needs to be added.
 
 ### Output
-Running our tests with Mocha is super easy; you just have to run npm test.
 
+Running our tests with Mocha is super easy; you just have to run npm test.
 
 ```
  npm test
@@ -222,8 +221,9 @@ Running our tests with Mocha is super easy; you just have to run npm test.
 
 
   14 passing (44ms)
-  
-  ```
+
+```
+
 And you have reached the end!
 
 Happy Coding! :heart:
